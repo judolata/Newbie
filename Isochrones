@@ -1,0 +1,4 @@
+conda install conda-build
+
+conda env create -f environment.yml
+conda activate geopandas
